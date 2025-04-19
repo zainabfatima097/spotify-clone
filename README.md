@@ -64,9 +64,9 @@ Start index.html with Live Server / double click it
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
--JS
+- HTML
+- CSS
+- JS 
 - Git + GitHub
 
 ---
