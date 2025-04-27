@@ -26,7 +26,7 @@ _
 - 🖼️ Clean image management and folder structure
 - 🎨 Pixel-perfect Spotify UI clone
 - ⚡ Fast load with lightweight code
-- 🚫 No external frameworks, just pure HTML + CSS *(optional to mention JS if used)*
+- 🚫 No external frameworks, just pure HTML + CSS 
 
 ---
 
