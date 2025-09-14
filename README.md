@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-📡 [Deploy Link via Vercel]https://spotify-clone-zee.vercel.app/ 
+ https://spotify-clone-zee.vercel.app/ 
 
 ---
 
