@@ -1,36 +1,27 @@
-# 🎵 Spotify Clone 🎧
+# Spotify Clone 🎧
 
-> A frontend clone of the legendary Spotify UI — minimalistic, clean, and fully vibing with your aesthetic needs.  
-> Built for practice, passion, and pure pixel-perfect satisfaction. 🧠💚
-
----
-
-![GitHub repo size](https://img.shields.io/github/repo-size/zainabfatima097/spotify-clone?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/zainabfatima097/spotify-clone?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/zainabfatima097/spotify-clone?style=flat-square)
-![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=flat-square)
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-green?style=flat-square)
+> A frontend clone of the legendary Spotify UI - minimalistic, clean, and fully vibing with your aesthetic needs.  
+> Built for practice, passion, and pure pixel-perfect satisfaction.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 📡 [Deploy Link via Vercel]https://spotify-clone-zee.vercel.app/ 
-_
 
 ---
 
-## 🧾 Features
+##  Features
 
-- 🎶 Fully responsive frontend
-- 🖼️ Clean image management and folder structure
-- 🎨 Pixel-perfect Spotify UI clone
-- ⚡ Fast load with lightweight code
-- 🚫 No external frameworks, just pure HTML + CSS 
+-  Fully responsive frontend
+-  Clean image management and folder structure
+-  Pixel-perfect Spotify UI clone
+-  Fast load with lightweight code
+-  No external frameworks, just pure HTML + CSS 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 spotify-clone/
@@ -45,7 +36,7 @@ spotify-clone/
 
 ---
 
-## 🧑‍💻 Setup Instructions
+## Setup Instructions
 
 Want to vibe with this locally? Easy:
 
@@ -62,16 +53,13 @@ Start index.html with Live Server / double click it
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
-- JS 
-- Git + GitHub
-
 ---
 
-## 🚀 Deployment Guide (Vercel)
+## Deployment Guide (Vercel)
 
 1. Go to [Vercel](https://vercel.com/)
 2. Click on “New Project”
@@ -82,7 +70,7 @@ Start index.html with Live Server / double click it
 
 ---
 
-## 📚 Inspirations
+## Inspirations
 
 - [Spotify Web Player](https://open.spotify.com/)
 - Frontend Mentor UI challenges
@@ -90,17 +78,7 @@ Start index.html with Live Server / double click it
 
 ---
 
-## 🙋‍♀️ About Me
-
-Made with ❤️ by **Zainab Fatima**
-
-📌 B.Tech CSE Student | Frontend Enthusiast | Hackathon Lover  
-🔗 [LinkedIn](https://www.linkedin.com/in/zainabfatima23)  
-📦 [GitHub](https://github.com/zainabfatima097)
-
----
-
-## 🧠 Learnings
+## Learnings
 
 - Working with Git & submodules like a boss
 - Folder hygiene is real
@@ -108,7 +86,7 @@ Made with ❤️ by **Zainab Fatima**
 
 ---
 
-## 🤝 Contribute?
+## Contribute?
 
 This was a solo jam, but feel free to fork and remix for your own learning. If you do something cool with it, tag me!
 
