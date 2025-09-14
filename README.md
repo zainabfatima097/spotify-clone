@@ -3,14 +3,6 @@
 > A frontend clone of the legendary Spotify UI - minimalistic, clean, and fully vibing with your aesthetic needs.  
 > Built for practice, passion, and pure pixel-perfect satisfaction.
 
----
-
-## Live Demo
-
- https://spotify-clone-zee.vercel.app/ 
-
----
-
 ##  Features
 
 -  Fully responsive frontend
