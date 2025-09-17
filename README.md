@@ -91,4 +91,6 @@ No gatekeeping here, just good vibes. ✌️
 
 ---
 
+added a dark mode
+
 > “Where words fail, music speaks... and this clone loads.” 🎧  
